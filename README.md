@@ -6,7 +6,8 @@ The idea is to develop a website which gathers news from multiple sources using 
 Also adding a news summary feature for each article fetched.
 Will kinda be like a RSS aggregator with some additional features.
 
-https://github.com/GC-995/Brevity/blob/main/client/src/assets/ezgif-4-6a7d00c15559.mp4
+![Uploading News App - Opera 2025-01-27 15-39-53 (online-video-cutter.gif…]()
+
 
 ![Screenshot 2025-01-27 154209](https://github.com/user-attachments/assets/46324d0a-1948-4a4e-8252-9f8b11072b25)
 
