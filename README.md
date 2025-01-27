@@ -10,7 +10,7 @@ If u find any bug, problem or just have a suggestion in mind, kindly create an [
 
 Didn't include node modules and the .env file with the API key so if u wanna run locally, a simple 'npm i' command and creating a new .env file (in the server directory) should do. If u feel like contributing, feel free to make a pull request.  
 
-##Snippets:
+## Snippets:
 
 ![](https://github.com/GC-995/Brevity/blob/main/client/src/assets/News%20App%20-%20Opera%202025-01-27%2015-39-53%20(online-video-cutter.gif )  
 
