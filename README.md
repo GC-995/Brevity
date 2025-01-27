@@ -1,4 +1,4 @@
-# News Aggregator
+# Brevity - News Aggregator
 
 A news aggregator website that is currently under development.
 Being developed using the MERN stack, tailwind CSS, NewsAPI and some other technologies.
