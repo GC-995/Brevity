@@ -62,9 +62,7 @@ nav {
     color: var(--heading);
 }
 
-nav ul {
-    min-width: 378px;
-}
+
 
 .dropdown-li {
     position: relative;
@@ -353,11 +351,7 @@ footer {
     }
 }
 
-@media (max-width: 480px) {
-    .everything-card {
-        width: 90%;
-    }
-}
+
 
 img {
     max-width: 100%;
