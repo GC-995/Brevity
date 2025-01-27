@@ -31,7 +31,7 @@ function Header() {
     <header className="ok123">
      <nav class="fixed top-0 left-0 w-full h-auto bg-gray-800 z-10 flex items-center justify-around">
       
-     <h3 class="relative heading font-bold md:basis-1/6 text-2xl xs:basis-4/12 z-50 mb-5 mt-5 whitespace-nowrap">
+     <h3 class="relative heading font-bold md:basis-1/6 text-3xl xs:basis-4/12 z-50 mb-5 mt-5 whitespace-nowrap">
   <span class="hidden sm:block">Brevity - News Aggregator</span>
   <span class="block sm:hidden">Brevity</span>
 </h3>
