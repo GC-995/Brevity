@@ -15,7 +15,7 @@ html, body {
 }
 
 .light-theme {
-    --background: url("https://i.imghippo.com/files/xJBT9554WHo.jpg");
+    --background: url("https://i.imgur.com/Z3aZDJv.jpeg");
     --primary: #F8FAFC;
     --secondary: #0F172A;
     --txt: #000;
@@ -28,7 +28,7 @@ html, body {
 }
 
 .dark-theme {
-    --background: url("https://i.imghippo.com/files/hRFs9900ML.png");
+    --background: url("https://i.imgur.com/yTFRVn1.png");
     --primary: rgb(30,41,59);
     --secondary: #D5DDF0;
     --txt: #fff;
