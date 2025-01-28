@@ -4,9 +4,9 @@ const axios = require("axios");
 const cors = require("cors");
 const app = express();
 
-// CORS configuration
+
 app.use(cors({
-  origin: '*', // Be cautious with this in production
+  origin: '*', 
   methods: ['GET', 'POST', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
