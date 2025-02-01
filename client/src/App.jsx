@@ -19,8 +19,7 @@ function App() {
           <Route path="/top-headlines/:category" element={<TopHeadlines />} />
           <Route path="/country/:iso" element={<CountryNews />} />
         </Routes>
-        {/* <Cards />  */}
-        {/* <Footer />   */}
+      
       </BrowserRouter>
     </div>
   );
