@@ -261,7 +261,7 @@ footer {
     background: var(--heading);
 }
 
-/* Loader */
+
 .loader-container {
     height: 100vh;
     padding: 0; 
@@ -298,7 +298,7 @@ footer {
     100% { transform: rotate(1turn) }
 }
 
-/* Responsive styles */
+
 @media (max-width: 1024px) {
     .cards {
         place-items: center;
