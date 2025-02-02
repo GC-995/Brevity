@@ -14,7 +14,7 @@ app.use(cors({
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-// Helper function for API requests
+
 async function makeApiRequest(url) {
   try {
     const response = await axios.get(url);
